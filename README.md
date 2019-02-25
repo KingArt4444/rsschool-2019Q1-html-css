@@ -1,2 +1,2 @@
 Artyom Korolyov
-https://www.codecademy.com/users/King_Art/achievements
+HTML CSS Basics: https://www.codecademy.com/users/King_Art/achievements
