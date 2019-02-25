@@ -1,2 +1,2 @@
-"# rsschool-2019Q1-html-css" 
-"# rsschool-2019Q1-html-css" 
+Artyom Korolyov
+https://www.codecademy.com/users/King_Art/achievements
